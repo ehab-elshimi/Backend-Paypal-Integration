@@ -48,6 +48,10 @@ You can clone this repository for a simple paypal integration sample or you can 
     PAYPAL_SANDBOX_API_SECRET=xxxxxxx-xxxxx-xxx
     PAYPAL_CURRENCY=USD
     PAYPAL_SANDBOX_API_CERTIFICATE=
+    
+    PAYPAL_SANDBOX_CLIENT_ID=Aa3Yg1lziML0Fg1aMOW_nEY-C7zRbHnEJ5XxbmSJ
+
+    PAYPAL_SANDBOX_CLIENT_SECRET=EOWVsp68LwKE4tuAMS0IkzeJbo5zcplEY5ZuY4_Z
     ```
 8. Now run the following command to create the controller:
     ```bash
